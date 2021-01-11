@@ -1,4 +1,4 @@
-const baseAddress = 'http://localhost:7071';
+const baseAddress = 'https://github.com/diogomaul/todowebsite';
 var app = new Vue({
     el: '#app',
     data: {
